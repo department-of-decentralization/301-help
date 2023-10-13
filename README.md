@@ -1,2 +1,3 @@
-# p
-303 nothing to see here
+# 301-help
+redirect for help protocol berlin
+
